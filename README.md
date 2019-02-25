@@ -1,2 +1,2 @@
-# bc-widget
-It a widget for bean cloud
+# sxq-widget
+It a widget for sign ease
