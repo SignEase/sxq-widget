@@ -1,0 +1,1 @@
+let url = "http://mock.beancloud.top/anon/front/bc-widget.htm",el = document.getElementById("sxq-widget-iframe"),variable = el.getAttribute('widget');if (!variable) {url = url + "?" + variable;}el.innerHTML = '<iframe src='+url+' frameborder="0" width="100%" height="100%" ></iframe>'

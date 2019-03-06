@@ -29,7 +29,7 @@ It a widget for sign ease
                     
                 三、展示数量控制（如果没有则默认展示10条数据）
                     indexPage=?（问号处可填写你需要展示的数据数量，请注意，这个数量只支持0-99，且只能是两位数字
-                                也就是说即使只显示一条数据也必须写成01格式）
+                    也就是说即使只显示一条数据也必须写成01格式）
                 
                 四、链接实例
                     http://mock.beancloud.top/anon/front/sxq-widget.htm?
@@ -43,7 +43,8 @@ It a widget for sign ease
             只需要将需要的参数写在该元素的标签中的 widget=""属性条即可。
             实例：
                 <div style="text-align: center">
-                    <div id="sxq-widget-iframe" style="height: 800px; width: 1000px; display: inline-block" widget="UNStoreId&UNPhone&sxq-widget-form-grey&indexPage=3"></div>
+                    <div id="sxq-widget-iframe" style="height: 800px; width: 1000px; display: inline-block" 
+                    widget="UNStoreId&UNPhone&sxq-widget-form-grey&indexPage=3"></div>
                 </div>
                 该模板将引入：禁用存证编号查询，禁用手机号码查询，背景为灰色，每页只显示三条最新数据的查询小插件界面。    
             
