@@ -1,1 +1,30 @@
-let url = "http://mock.beancloud.top/anon/front/bc-widget.htm",el = document.getElementById("sxq-widget-iframe"),variable = el.getAttribute('widget');if (!variable) {url = url + "?" + variable;}el.innerHTML = '<iframe src='+url+' frameborder="0" width="100%" height="100%" ></iframe>'
+function loadStyles(url) {
+    let l = document.createElement("link");
+    l.rel = "stylesheet";
+    l.type = "text/css";
+    l.href = "https://sxqian.oss-cn-hangzhou.aliyuncs.com/app/online/server/widget/chunk-vendors.df73e011.css";
+    let h = document.getElementsByTagName("head")[0];
+    h.appendChild(l);
+}
+
+function loadJs() {
+    let s = document.createElement("script");
+    s.src = "https://sxqian.oss-cn-hangzhou.aliyuncs.com/app/online/server/widget/chunk-vendors.1cc43d22.js";
+    let b = document.getElementsByTagName("body")[0];
+    b.appendChild(s);
+}
+
+function createD() {
+    let d = document.createElement('div');
+    d.id = "sxq_widget_id";
+    let sws = document.getElementsByClassName("sxq_widget_class");
+    for (let i = 0; i < sws.length; i++){
+        sws[i].appendChild(d)
+    }
+}
+
+$(document).ready(()=>{
+    loadStyles();
+    loadJs();
+    createD();
+})

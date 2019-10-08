@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="776a633e-1a3d-4ceb-a541-fc1b54793f4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sxq-widget.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sxq-widget.js" beforeDir="false" afterPath="$PROJECT_DIR$/sxq-widget.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,23 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="641">
-                <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <first_editor relative-caret-position="175">
+                <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sxq-widget.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="228" selection-start-column="228" selection-end-column="228" />
+            <state relative-caret-position="725">
+              <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -55,10 +55,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="480" />
-    <option name="y" value="75" />
-    <option name="width" value="1725" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="221" />
+    <option name="y" value="10" />
+    <option name="width" value="2145" />
     <option name="height" value="1415" />
   </component>
   <component name="ProjectView">
@@ -66,25 +66,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="sxq-widget" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sxq-widget" type="462c0819:PsiDirectoryNode" />
+              <item name="sxq-widget-github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sxq-widget-github" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551774181073" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570509954425" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -120,17 +120,20 @@
       <workItem from="1551773481227" duration="453000" />
       <workItem from="1551774014433" duration="213000" />
       <workItem from="1551774279062" duration="26000" />
+      <workItem from="1570498812285" duration="5672000" />
+      <workItem from="1570516615653" duration="2287000" />
+      <workItem from="1570523269112" duration="266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="924000" />
+    <option name="totallyTimeSpent" value="9149000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1166" extended-state="6" />
+    <frame x="177" y="8" width="1716" height="1132" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26047903" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24306393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -171,8 +174,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="641">
-            <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <first_editor relative-caret-position="175">
+            <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
@@ -180,8 +183,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sxq-widget.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="228" selection-start-column="228" selection-end-column="228" />
+        <state relative-caret-position="725">
+          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
         </state>
       </provider>
     </entry>
